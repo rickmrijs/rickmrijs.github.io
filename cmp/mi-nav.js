@@ -413,7 +413,7 @@ export class MiNav extends HTMLElement {
                 <p>
                   <a href="/g_if/5_if_false.html">Prueba de escritorio cuando la
                     condición de <strong>if</strong> evalúa a
-                    strong>false</strong></a>
+                    <strong>false</strong></a>
                 </p>
               </li>
               <li>
