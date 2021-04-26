@@ -416,7 +416,7 @@ export class MiNav extends HTMLElement {
                     <strong>false</strong></a>
                 </p>
               </li>
-              <li>
+            <!--  <li>
                 <details>
                   <summary>
                     <h3>Programa con <strong>if</strong></h3>
@@ -462,7 +462,7 @@ export class MiNav extends HTMLElement {
                     </li>
                   </ol>
                 </details>
-              </li>
+              </li>-->
               <li>
                 <p><a href="/g_if/7_resumen.html">Resumen</a></p>
               </li>
@@ -495,7 +495,7 @@ export class MiNav extends HTMLElement {
                     <strong>false</strong></a>
                 </p>
               </li>
-              <li>
+             <!-- <li>
                 <details>
                   <summary>
                     <h3>Programa con <strong>if-else</strong></h3>
@@ -540,7 +540,7 @@ export class MiNav extends HTMLElement {
               </li>
             </ol>
           </details>
-        </li>
+        </li>-->
         <li>
           <details>
             <summary>
@@ -571,7 +571,7 @@ export class MiNav extends HTMLElement {
                     <strong>false</strong></a>
                 </p>
               </li>
-              <li>
+            <!--  <li>
                 <details>
                   <summary>
                     <h3>Programa de condicional múltiple</h3>
@@ -616,7 +616,7 @@ export class MiNav extends HTMLElement {
               </li>
             </ol>
           </details>
-        </li>
+        </li>-->
         <li>
           <details>
             <summary>
@@ -653,7 +653,7 @@ export class MiNav extends HTMLElement {
                     <strong>false</strong></a>
                 </p>
               </li>
-              <li>
+             <!-- <li>
                 <details>
                   <summary>
                     <h3>
@@ -694,7 +694,7 @@ export class MiNav extends HTMLElement {
                     </li>
                   </ol>
                 </details>
-              </li>
+              </li>-->
               <li>
                 <p><a href="/j_melse/6_resumen.html">Resumen</a></p>
               </li>
@@ -786,7 +786,7 @@ export class MiNav extends HTMLElement {
                     escritorio con <strong>do-while</strong></a>
                 </p>
               </li>
-              <li>
+              <!--<li>
                 <details>
                   <summary>
                     <h3>Programa con <strong>do-while</strong></h3>
@@ -825,7 +825,7 @@ export class MiNav extends HTMLElement {
                     </li>
                   </ol>
                 </details>
-              </li>
+              </li>-->
               <li><p><a href="/m_do_while/4_resumen.html">Resumen</a></p></li>
             </ol>
           </details>
@@ -955,7 +955,7 @@ export class MiNav extends HTMLElement {
                     <strong>for</strong></a>
                 </p>
               </li>
-              <li>
+             <!-- <li>
                 <details>
                   <summary>
                     <h3>Programa con <strong>for</strong></h3>
@@ -994,7 +994,7 @@ export class MiNav extends HTMLElement {
                     </li>
                   </ol>
                 </details>
-              </li>
+              </li>-->
               <li><p><a href="/p_for/4_resumen.html">Resumen</a></p></li>
             </ol>
           </details>
