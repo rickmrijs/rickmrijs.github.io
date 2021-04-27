@@ -534,13 +534,13 @@ export class MiNav extends HTMLElement {
                     </li>
                   </ol>
                 </details>
-              </li>
+              </li>-->
               <li>
                 <p><a href="/h_if_else/5_resumen.html">Resumen</a></p>
               </li>
             </ol>
           </details>
-        </li>-->
+        </li>
         <li>
           <details>
             <summary>
@@ -610,13 +610,13 @@ export class MiNav extends HTMLElement {
                     </li>
                   </ol>
                 </details>
-              </li>
+              </li>-->
               <li>
                 <p><a href="/i_multiple/6_resumen.html">Resumen</a></p>
               </li>
             </ol>
           </details>
-        </li>-->
+        </li>
         <li>
           <details>
             <summary>
