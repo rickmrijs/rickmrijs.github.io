@@ -571,7 +571,7 @@ export class MiNav extends HTMLElement {
                     <strong>false</strong></a>
                 </p>
               </li>
-            <!--  <li>
+              <li>
                 <details>
                   <summary>
                     <h3>Programa de condicional múltiple</h3>
@@ -610,7 +610,7 @@ export class MiNav extends HTMLElement {
                     </li>
                   </ol>
                 </details>
-              </li>-->
+              </li>
               <li>
                 <p><a href="/i_multiple/6_resumen.html">Resumen</a></p>
               </li>
