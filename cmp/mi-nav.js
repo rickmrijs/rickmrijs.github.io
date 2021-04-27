@@ -416,7 +416,7 @@ export class MiNav extends HTMLElement {
                     <strong>false</strong></a>
                 </p>
               </li>
-            <!--  <li>
+              <li>
                 <details>
                   <summary>
                     <h3>Programa con <strong>if</strong></h3>
@@ -453,13 +453,13 @@ export class MiNav extends HTMLElement {
                           <em>Replit</em></a>
                       </p>
                     </li>
-                    <li>
+                   <!-- <li>
                       <p>
                         <a href="/g_if/6_if_programa/7_vsc.html">Prueba los
                           escenarios en <em>Visual
                             Studio Code</em></a>
                       </p>
-                    </li>
+                    </li>-->
                   </ol>
                 </details>
               </li>-->
