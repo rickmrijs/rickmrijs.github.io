@@ -495,7 +495,7 @@ export class MiNav extends HTMLElement {
                     <strong>false</strong></a>
                 </p>
               </li>
-             <!-- <li>
+              <li>
                 <details>
                   <summary>
                     <h3>Programa con <strong>if-else</strong></h3>
@@ -534,7 +534,7 @@ export class MiNav extends HTMLElement {
                     </li>
                   </ol>
                 </details>
-              </li>-->
+              </li>
               <li>
                 <p><a href="/h_if_else/5_resumen.html">Resumen</a></p>
               </li>
